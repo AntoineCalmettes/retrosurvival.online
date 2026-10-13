@@ -1,0 +1,1 @@
+var e=`https://retrosurvival.online`;function t(t){return`${e}/s/${t}`}export{t as n,e as t};

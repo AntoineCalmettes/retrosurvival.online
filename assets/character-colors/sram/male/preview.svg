@@ -1,0 +1,311 @@
+<svg xmlns:ffdec="https://www.free-decompiler.com/flash" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" ffdec:objectType="frame" height="40.2px" width="20.6px">
+  <g transform="matrix(1.0, 0.0, 0.0, 1.0, 12.8, 37.25)">
+    <g height="45.75" transform="matrix(0.88, 0.0, 0.0, 0.88, 0.0, 0.0)" width="23.45">
+      <g height="10.5" transform="matrix(0.7982, 0.0, 0.0, 0.8, 0.0, 0.05)" width="21.0">
+      <g height="10.5" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="21.0">
+      <pattern height="15" id="PatternID_2_1" overflow="visible" patternTransform="matrix(0.7, 0.0, 0.0, 0.7, -10.6, -6.3)" patternUnits="userSpaceOnUse" viewBox="0 0 30 15" width="30">
+        <image height="15" style="image-rendering:optimizeQuality" width="30" xlink:href="data:image/PNG;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAPCAYAAADzun+cAAAB8klEQVR4XtWV107DQBBFR4TeIfQiQhNF9N5xAgk11P//F+5hdomxEh4QL4x0ZHuz3jvVMfsn1iZ6RbtoDfSl1v7MmszFOkVeDIkRMSoKYiasTYQ1nOgO5OyXRjSIIYTAktgRB+JQHIkTcZHiWGyJVTEphkW/uSOc96O1mEdJJHNiTZyLK3GvMO50fRRPqSvcixtRCvt3xZ6502QDcc6ta/wwYB7linkEibkYhz+L98CreAlrb+GZ+2rYixPX4lTMi0HRZXVKQCoQpV6k68w8yijIwdzfWu1wonwIV2ANZ3CM+4rVol8W06LHMuIdYlwsiHVxkXMR0hkjioIx6izsQzhmAmcSsWHeI2SSmqP1aYwCC9RiVmyKYhCOEXCNUWUF0+mPGXqhH0TRPN37Ysy8d+j+T0OYBxbpRro2MU9VjJgDSSvwnBXEMX6LjsVS0GycR6PmzWeeBv4y8s4C3Vcw95D6lM1TDFEAYmTAPaQdQJR3ESXVZJJUN1sDQ5gNi+bzyKySKhqN7q5Xz/QaguxNwruMIyPFTFNbPkoNjbYnLdRkynweL83rVVJqKmGeq7qWc7XRScI+poJmomzAKDWc4azF8aLuiBcCRLCdgkaMXzQmgj2MJFmjb371DSctvEgGuMY/CWAKiITDgT180+Fb89SzDx/gPN/y71OFAAAAAElFTkSuQmCC"/>
+      </pattern>
+      <path d="M-10.6 -6.3 L10.4 -6.3 10.4 4.2 -10.6 4.2 -10.6 -6.3" ffdec:fill-bitmapId="1" fill-rule="evenodd" style="fill:url(#PatternID_2_1)"/>
+    </g>
+    </g>
+
+      <g height="4.3" transform="matrix(0.9977, 0.0, -0.1302, 1.0, -5.2, -3.15)" width="4.05">
+      <g height="4.3" id="cSram_R_Pied00" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.65, 2.45)" width="4.05" class="color1">
+      <g height="4.3" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="4.05">
+      <path d="M2.05 1.7 Q1.55 2.2 -0.1 2.15 -1.85 2.05 -2.0 1.4 L-1.1 -2.15 1.55 -1.95 1.8 -0.4 2.05 1.7" fill="#88532d" fill-rule="evenodd" stroke="none"/>
+    </g>
+    </g>
+      <g height="4.3" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="4.05">
+      <path d="M-0.45 0.3 L-1.35 3.85 Q-1.2 4.5 0.55 4.6 2.2 4.65 2.7 4.15 L2.45 2.05 2.2 0.5" ffdec:has-small-stroke="true" ffdec:original-stroke-width="0.05" fill="none" stroke="#212121" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5019608" stroke-width="1.1376710526314049"/>
+    </g>
+    </g>
+      <g height="7.95" transform="matrix(-0.9694, -0.125, -0.2841, 0.9926, -3.2, -10.95)" width="4.45">
+      <g height="5.7" id="cSram_R_Jambe00" transform="matrix(1.0, 0.0, 0.0, 1.0, -0.65, 6.35)" width="3.5" class="color1">
+      <g height="5.7" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="3.5">
+      <path d="M0.95 2.85 L-0.4 2.55 Q-1.4 2.25 -1.65 1.85 L-1.7 1.75 Q-1.85 -0.75 -1.5 -2.05 -0.25 -2.8 0.55 -2.85 1.8 -2.9 1.75 -1.1 0.9 0.85 0.95 2.85" fill="#88532d" fill-rule="evenodd" stroke="none"/>
+    </g>
+    </g>
+      <g height="7.95" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="4.45">
+      <path d="M-1.1 8.85 Q-2.1 8.55 -2.35 8.15 L-2.4 8.05 Q-2.55 5.55 -2.2 4.25 -0.95 3.5 -0.15 3.45 -1.15 6.75 -1.1 8.85" fill="#203346" fill-opacity="0.3019608" fill-rule="evenodd" stroke="none"/>
+      <path d="M1.45 1.95 L0.55 2.05 1.45 1.95 M-2.3 5.1 L-2.65 4.9 -2.0 1.3 -2.1 1.8 -2.65 4.85 Q-2.5 4.9 -2.3 5.05 L-2.3 5.1 -2.3 5.05 -2.0 5.3 -2.05 5.3 -2.3 5.1" fill="#ddd6c1" fill-rule="evenodd" stroke="none"/>
+      <path d="M0.25 9.2 Q0.2 7.2 1.15 4.95 M-2.3 5.1 L-2.3 5.05 M-2.3 5.1 L-2.4 8.1" ffdec:has-small-stroke="true" ffdec:original-stroke-width="0.05" fill="none" stroke="#212121" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5019608" stroke-width="1.137676480843768"/>
+      <path d="M-0.05 2.05 L0.55 2.05 1.45 1.95 1.6 1.95 1.6 3.8 Q2.05 4.15 1.6 5.45 L1.15 5.7 Q1.2 4.35 0.7 4.0 -0.2 4.9 0.0 5.95 -0.05 5.8 -0.55 5.75 0.15 4.05 -0.05 2.05" fill="#cc8245" fill-rule="evenodd" stroke="none"/>
+      <path d="M-0.05 2.05 Q0.15 4.05 -0.55 5.75 L-0.65 5.7 -2.0 5.3 -2.3 5.05 Q-2.5 4.9 -2.65 4.85 L-2.1 1.8 -1.9 1.25 Q-1.05 1.9 -0.05 2.05" fill="#a6612f" fill-rule="evenodd" stroke="none"/>
+      <path d="M1.15 5.7 L1.6 5.45 Q2.05 4.15 1.6 3.8 L1.6 1.95 1.45 1.95 0.55 2.05 -0.05 2.05 Q-1.05 1.9 -1.9 1.25 L-2.1 1.8 -2.65 4.85 Q-2.5 4.9 -2.3 5.05 L-2.0 5.3 -0.65 5.7 -0.55 5.75 Q-0.05 5.8 0.0 5.95" ffdec:has-small-stroke="true" ffdec:original-stroke-width="0.05" fill="none" stroke="#212121" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5019608" stroke-width="1.137676480843768"/>
+      <path d="M0.7 4.0 Q1.2 4.35 1.15 5.7" ffdec:has-small-stroke="true" ffdec:original-stroke-width="0.05" fill="none" stroke="#212121" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5019608" stroke-width="1.137676480843768"/>
+    </g>
+    </g>
+      <g height="11.15" transform="matrix(-0.9515, -0.291, -0.3805, 0.9289, -1.55, -17.45)" width="4.45">
+      <g height="11.15" id="cSram_R_Cuisse00" transform="matrix(1.0, 0.0, 0.0, 1.0, -0.35, 4.95)" width="4.45" class="color3">
+      <g height="11.15" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="4.45">
+      <path d="M0.2 5.45 Q-1.6 5.8 -2.25 4.95 -2.25 4.25 -1.85 3.7 L-1.9 3.65 -1.45 -0.05 -1.25 -1.45 Q-0.8 -3.7 0.15 -5.4 0.75 -6.1 1.4 -4.0 L1.5 -3.6 2.2 -0.2 Q1.9 1.35 1.05 2.8 L0.4 4.05 0.35 4.05 Q0.55 4.8 0.2 5.45" fill="#e0e6e9" fill-rule="evenodd" stroke="none"/>
+    </g>
+    </g>
+      <g height="10.85" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="4.45">
+      <path d="M-0.15 10.4 Q0.2 9.75 0.0 9.0 L0.05 9.0 0.7 7.75 Q1.55 6.3 1.85 4.75 M-0.2 -0.45 Q-1.15 1.25 -1.6 3.5 L-1.8 4.9 -2.25 8.6 -2.2 8.65 Q-2.6 9.2 -2.6 9.9" ffdec:has-small-stroke="true" ffdec:original-stroke-width="0.05" fill="none" stroke="#212121" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5019608" stroke-width="1.139460570061679"/>
+    </g>
+    </g>
+      <g height="4.3" transform="matrix(0.9626, -0.0741, 0.4745, 1.0, 4.15, -3.05)" width="4.05">
+      <g height="4.3" id="cSram_R_Pied00" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.65, 2.45)" width="4.05" class="color1">
+      <g height="4.3" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="4.05">
+      <path d="M2.05 1.7 Q1.55 2.2 -0.1 2.15 -1.85 2.05 -2.0 1.4 L-1.1 -2.15 1.55 -1.95 1.8 -0.4 2.05 1.7" fill="#88532d" fill-rule="evenodd" stroke="none"/>
+    </g>
+    </g>
+      <g height="4.3" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="4.05">
+      <path d="M-0.45 0.3 L-1.35 3.85 Q-1.2 4.5 0.55 4.6 2.2 4.65 2.7 4.15 L2.45 2.05 2.2 0.5" ffdec:has-small-stroke="true" ffdec:original-stroke-width="0.05" fill="none" stroke="#212121" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5019608" stroke-width="1.1376809866694926"/>
+    </g>
+    </g>
+      <g height="7.95" transform="matrix(0.9695, -0.0806, 0.3393, 0.9676, 3.55, -10.65)" width="4.45">
+      <g height="5.7" id="cSram_R_Jambe00" transform="matrix(1.0, 0.0, 0.0, 1.0, -0.65, 6.35)" width="3.5" class="color1">
+      <g height="5.7" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="3.5">
+      <path d="M0.95 2.85 L-0.4 2.55 Q-1.4 2.25 -1.65 1.85 L-1.7 1.75 Q-1.85 -0.75 -1.5 -2.05 -0.25 -2.8 0.55 -2.85 1.8 -2.9 1.75 -1.1 0.9 0.85 0.95 2.85" fill="#88532d" fill-rule="evenodd" stroke="none"/>
+    </g>
+    </g>
+      <g height="7.95" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="4.45">
+      <path d="M-1.1 8.85 Q-2.1 8.55 -2.35 8.15 L-2.4 8.05 Q-2.55 5.55 -2.2 4.25 -0.95 3.5 -0.15 3.45 -1.15 6.75 -1.1 8.85" fill="#203346" fill-opacity="0.3019608" fill-rule="evenodd" stroke="none"/>
+      <path d="M1.45 1.95 L0.55 2.05 1.45 1.95 M-2.3 5.1 L-2.65 4.9 -2.0 1.3 -2.1 1.8 -2.65 4.85 Q-2.5 4.9 -2.3 5.05 L-2.3 5.1 -2.3 5.05 -2.0 5.3 -2.05 5.3 -2.3 5.1" fill="#ddd6c1" fill-rule="evenodd" stroke="none"/>
+      <path d="M0.25 9.2 Q0.2 7.2 1.15 4.95 M-2.3 5.1 L-2.3 5.05 M-2.3 5.1 L-2.4 8.1" ffdec:has-small-stroke="true" ffdec:original-stroke-width="0.05" fill="none" stroke="#212121" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5019608" stroke-width="1.1565699273544847"/>
+      <path d="M-0.05 2.05 L0.55 2.05 1.45 1.95 1.6 1.95 1.6 3.8 Q2.05 4.15 1.6 5.45 L1.15 5.7 Q1.2 4.35 0.7 4.0 -0.2 4.9 0.0 5.95 -0.05 5.8 -0.55 5.75 0.15 4.05 -0.05 2.05" fill="#cc8245" fill-rule="evenodd" stroke="none"/>
+      <path d="M-0.05 2.05 Q0.15 4.05 -0.55 5.75 L-0.65 5.7 -2.0 5.3 -2.3 5.05 Q-2.5 4.9 -2.65 4.85 L-2.1 1.8 -1.9 1.25 Q-1.05 1.9 -0.05 2.05" fill="#a6612f" fill-rule="evenodd" stroke="none"/>
+      <path d="M1.15 5.7 L1.6 5.45 Q2.05 4.15 1.6 3.8 L1.6 1.95 1.45 1.95 0.55 2.05 -0.05 2.05 Q-1.05 1.9 -1.9 1.25 L-2.1 1.8 -2.65 4.85 Q-2.5 4.9 -2.3 5.05 L-2.0 5.3 -0.65 5.7 -0.55 5.75 Q-0.05 5.8 0.0 5.95" ffdec:has-small-stroke="true" ffdec:original-stroke-width="0.05" fill="none" stroke="#212121" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5019608" stroke-width="1.1565699273544847"/>
+      <path d="M0.7 4.0 Q1.2 4.35 1.15 5.7" ffdec:has-small-stroke="true" ffdec:original-stroke-width="0.05" fill="none" stroke="#212121" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5019608" stroke-width="1.1565699273544847"/>
+    </g>
+    </g>
+      <g height="11.15" transform="matrix(0.9308, -0.3831, 0.5076, 0.8595, 0.6, -16.95)" width="4.45">
+      <g height="11.15" id="cSram_R_Cuisse00" transform="matrix(1.0, 0.0, 0.0, 1.0, -0.35, 4.95)" width="4.45" class="color3">
+      <g height="11.15" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="4.45">
+      <path d="M0.2 5.45 Q-1.6 5.8 -2.25 4.95 -2.25 4.25 -1.85 3.7 L-1.9 3.65 -1.45 -0.05 -1.25 -1.45 Q-0.8 -3.7 0.15 -5.4 0.75 -6.1 1.4 -4.0 L1.5 -3.6 2.2 -0.2 Q1.9 1.35 1.05 2.8 L0.4 4.05 0.35 4.05 Q0.55 4.8 0.2 5.45" fill="#e0e6e9" fill-rule="evenodd" stroke="none"/>
+    </g>
+    </g>
+      <g height="10.85" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="4.45">
+      <path d="M-0.15 10.4 Q0.2 9.75 0.0 9.0 L0.05 9.0 0.7 7.75 Q1.55 6.3 1.85 4.75 M-0.2 -0.45 Q-1.15 1.25 -1.6 3.5 L-1.8 4.9 -2.25 8.6 -2.2 8.65 Q-2.6 9.2 -2.6 9.9" ffdec:has-small-stroke="true" ffdec:original-stroke-width="0.05" fill="none" stroke="#212121" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5019608" stroke-width="1.1395072301583522"/>
+    </g>
+    </g>
+      <g height="9.75" transform="matrix(0.9977, 0.0989, 0.0, 1.0497, -0.95, -19.1)" width="12.15">
+      <g height="9.75" id="cSram_F_Bassin" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.3, 3.25)" width="12.15" class="color2">
+      <g height="9.75" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="12.15">
+      <path d="M-3.9 -3.85 Q0.6 -3.05 3.65 -4.85 5.5 -0.5 6.1 3.1 L3.6 4.25 -2.6 4.6 -6.05 3.8 Q-5.0 2.05 -4.8 -0.45 -4.65 -3.0 -3.9 -3.85" fill="#9f59aa" fill-rule="evenodd" stroke="none"/>
+    </g>
+    </g>
+      <g height="9.75" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="12.15">
+      <path d="M3.95 -1.6 Q5.8 2.75 6.4 6.35 L3.9 7.5 Q0.55 8.6 -2.3 7.85 L-5.75 7.05 Q-4.7 5.3 -4.5 2.8 -4.35 0.25 -3.6 -0.6" ffdec:has-small-stroke="true" ffdec:original-stroke-width="0.05" fill="none" stroke="#212121" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5019608" stroke-width="1.110396887281712"/>
+      <path d="M-3.65 4.3 Q-3.4 1.85 -2.55 0.4 -2.65 4.25 1.15 6.15 -2.7 6.2 -3.65 4.3" fill="#161b1f" fill-opacity="0.15294118" fill-rule="evenodd" stroke="none"/>
+    </g>
+    </g>
+      <g height="5.65" transform="matrix(-0.9936, 0.1099, 0.1099, 0.9936, 5.0, -18.55)" width="3.25">
+      <g height="5.65" id="cSram_F_Main00" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 1.85)" width="3.25" class="color1">
+      <g height="5.65" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="3.25">
+      <path d="M-1.5 -2.7 L-0.6 -2.8 0.35 -2.5 Q0.6 -1.8 0.5 -1.1 L1.65 0.75 1.65 0.8 1.05 1.55 Q0.95 1.6 0.8 1.7 L0.65 1.5 0.55 1.45 0.6 1.55 0.3 2.2 0.3 2.25 0.2 2.3 -0.05 2.6 -0.35 2.85 -0.4 2.85 -1.4 1.6 -1.45 1.25 -1.55 -0.55 -1.5 -2.7" fill="#88532d" fill-rule="evenodd" stroke="none"/>
+    </g>
+    </g>
+      <g height="5.55" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="3.25">
+      <path d="M-1.5 -0.85 L-1.55 1.3 -1.45 3.1 -1.4 3.45 -0.4 4.7 -0.35 4.7 -0.05 4.45 0.2 4.15 0.3 4.1 0.3 4.05 0.6 3.4 0.55 3.3 0.65 3.35 0.8 3.55 Q0.95 3.45 1.05 3.4 L1.65 2.65 1.65 2.6 0.5 0.75 Q0.6 0.05 0.35 -0.65" ffdec:has-small-stroke="true" ffdec:original-stroke-width="0.05" fill="none" stroke="#212121" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5019608" stroke-width="1.1367882165214511"/>
+    </g>
+    </g>
+      <g height="7.7" transform="matrix(-0.9527, 0.2858, 0.1755, 0.8825, 5.35, -23.9)" width="4.5">
+      <g height="5.1" id="cSram_F_Bras00" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.7, 2.25)" width="3.15" class="color3">
+      <g height="5.1" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="3.15">
+      <path d="M-0.25 -3.45 L1.15 -3.75 1.6 -0.65 1.5 0.45 -0.15 1.0 -0.25 -3.45" fill="#e0e6e9" fill-rule="evenodd" stroke="none"/>
+      <path d="M-0.15 1.0 L-1.3 1.35 -1.35 1.15 -1.55 -1.35 -1.0 -3.5 -0.25 -3.45 -0.15 1.0" fill="#c2ced3" fill-rule="evenodd" stroke="none"/>
+    </g>
+    </g>
+      <g height="3.3" id="cSram_F_BrasManche00" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.5, 4.55)" width="3.95" class="color1">
+      <g height="3.3" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="3.95">
+      <path d="M0.05 1.55 L-0.85 1.15 Q-1.15 -0.5 -1.95 -1.5 L2.0 -1.65 1.55 1.45 0.05 1.55" fill="#88532d" fill-rule="evenodd" stroke="none"/>
+    </g>
+    </g>
+      <g height="7.6" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="4.5">
+      <path d="M1.85 -1.5 L2.3 1.6 2.2 2.6 M-0.7 3.0 L-0.85 0.9 -0.3 -1.25" ffdec:has-small-stroke="true" ffdec:original-stroke-width="0.05" fill="none" stroke="#212121" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5019608" stroke-width="1.2039375038815452"/>
+      <path d="M2.45 2.0 L2.5 2.9 -1.45 3.05 Q-1.65 2.35 -2.0 2.1 L2.45 2.0" fill="#cc8245" fill-rule="evenodd" stroke="none"/>
+      <path d="M2.45 2.0 L2.5 2.9 2.05 6.0 M0.55 6.1 L-0.35 5.7 Q-0.65 4.05 -1.45 3.05 -1.65 2.35 -2.0 2.1" ffdec:has-small-stroke="true" ffdec:original-stroke-width="0.05" fill="none" stroke="#212121" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5019608" stroke-width="1.2039375038815452"/>
+    </g>
+    </g>
+      <g height="9.15" transform="matrix(0.9917, -0.1003, 0.0327, 1.0008, 2.7, -30.55)" width="5.45">
+      <g height="7.5" id="cSram_F_Epaule00" transform="matrix(1.0, 0.0, 0.0, 1.0, 1.2, 3.6)" width="3.15" class="color3">
+      <g height="7.5" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="3.15">
+      <path d="M0.9 -1.85 Q1.4 -0.75 1.25 -0.3 L1.15 0.65 1.25 1.95 Q1.3 3.15 1.6 3.7 L-0.45 3.75 Q-0.95 3.1 -0.85 1.8 -0.8 0.3 -1.25 -1.0 L-1.3 -1.0 -1.35 -1.15 -1.4 -1.4 Q-1.65 -2.3 -1.5 -2.85 -1.35 -4.0 -0.75 -3.7 0.25 -3.35 0.9 -1.85" fill="#e0e6e9" fill-rule="evenodd" stroke="none"/>
+    </g>
+    </g>
+      <g height="4.75" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="2.9">
+      <path d="M2.8 7.3 Q2.5 6.75 2.45 5.55 L2.35 4.25 2.45 3.3 M-0.1 2.6 Q0.4 3.9 0.35 5.4 0.25 6.7 0.75 7.35" ffdec:has-small-stroke="true" ffdec:original-stroke-width="0.05" fill="none" stroke="#212121" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5019608" stroke-width="1.1387751125629597"/>
+    </g>
+      <g height="5.2" id="cSram_F_EpauleCape00" transform="matrix(1.0, 0.0, 0.0, 1.0, 2.1, 0.75)" width="5.4" class="color2">
+      <g height="5.2" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="5.4">
+      <path d="M0.15 -1.45 Q0.7 -1.45 1.25 -0.8 L2.15 0.25 2.45 0.95 2.75 2.35 Q0.45 2.85 -2.6 2.45 L-2.65 -2.35 -2.55 -2.55 Q-0.45 -1.45 0.15 -1.45" fill="#9f59aa" fill-rule="evenodd" stroke="none"/>
+    </g>
+    </g>
+      <g height="5.2" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="5.45">
+      <path d="M4.85 3.1 Q2.55 3.6 -0.5 3.2 L-0.6 1.7 Q3.2 2.4 4.55 1.7 L4.85 3.1" fill="#161a1f" fill-opacity="0.3019608" fill-rule="evenodd" stroke="none"/>
+      <path d="M4.55 1.7 L4.25 1.0 3.35 -0.05 Q2.8 -0.7 2.25 -0.7 1.65 -0.7 -0.45 -1.8 M-0.5 3.2 Q2.55 3.6 4.85 3.1 L4.55 1.7" ffdec:has-small-stroke="true" ffdec:original-stroke-width="0.05" fill="none" stroke="#212121" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5019608" stroke-width="1.1387751125629597"/>
+      <path d="M4.55 1.7 Q3.2 2.4 -0.6 1.7" ffdec:has-small-stroke="true" ffdec:original-stroke-width="0.05" fill="none" stroke="#212121" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5019608" stroke-width="1.1387751125629597"/>
+    </g>
+    </g>
+      <g height="15.55" transform="matrix(1.0003, -0.033, 0.015, 1.0299, -1.0, -20.05)" width="9.3">
+      <g height="10.7" id="cSram_F_Corps" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.3, -4.5)" width="8.9" class="color3">
+      <g height="10.7" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="8.9">
+      <path d="M4.5 -5.05 L4.4 -2.75 4.1 -1.25 Q2.85 -0.35 2.75 0.9 L2.75 1.6 3.05 2.6 Q4.0 4.95 3.65 5.3 L-1.25 5.35 -4.0 5.05 Q-3.8 3.75 -3.05 2.3 -2.8 -0.5 -3.95 -1.3 -4.5 -3.6 -4.4 -5.35 L4.5 -5.05" fill="#e0e6e9" fill-rule="evenodd" stroke="none"/>
+    </g>
+    </g>
+      <g height="5.45" id="cSram_F_CorpsCape" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.4, -9.15)" width="9.3" class="color2">
+      <g height="5.45" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="9.3">
+      <path d="M0.1 -2.7 L4.5 -2.0 4.65 0.75 4.5 2.1 2.9 2.6 -0.45 2.7 -3.25 2.3 -4.5 2.1 -4.65 0.7 -4.3 -2.35 0.1 -2.7" fill="#9f59aa" fill-rule="evenodd" stroke="none"/>
+    </g>
+    </g>
+      <g height="2.15" id="cSram_F_Ceinture" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.15, 0.8)" width="8.05" class="color1">
+      <g height="2.15" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="8.05">
+      <path d="M0.25 -0.6 L3.95 -0.8 Q4.15 0.5 3.9 0.6 L1.1 1.1 -1.05 1.05 -3.85 0.35 Q-4.15 0.2 -3.9 -1.05 L-0.2 -0.65 0.25 -0.6" fill="#88532d" fill-rule="evenodd" stroke="none"/>
+    </g>
+    </g>
+      <g height="15.55" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="8.95">
+      <path d="M-3.9 -7.0 L-2.5 -6.75 -2.5 -6.7 -1.9 -5.05 -1.05 -4.95 -0.6 -4.9 -2.05 -1.8 -1.25 0.1 -3.55 -0.15 -2.75 -2.2 -2.7 -3.3 -2.75 -4.0 Q-2.95 -5.25 -3.6 -5.75 L-3.65 -5.8 -3.9 -7.0 M3.05 -3.6 L3.05 -3.1 3.05 -2.9 2.1 -1.35 2.15 -2.65 1.0 -5.0 0.9 -5.15 1.15 -5.0 3.05 -3.6 M1.0 -5.0 L1.15 -5.0 1.0 -5.0 M-2.75 -4.0 Q-2.2 -4.75 -1.05 -4.95 -2.2 -4.75 -2.75 -4.0" fill="#161b1f" fill-opacity="0.15294118" fill-rule="evenodd" stroke="none"/>
+      <path d="M-3.9 -7.0 L-3.9 -7.1 -3.95 -7.3 -4.05 -8.2 -4.05 -8.35 Q0.45 -8.0 4.8 -8.35 L4.7 -7.25 4.65 -6.95 3.3 -6.55 0.3 -6.45 0.3 -6.5 0.25 -6.5 -2.5 -6.75 -3.9 -7.0" fill="#161a1f" fill-opacity="0.3019608" fill-rule="evenodd" stroke="none"/>
+      <path d="M0.15 -9.1 L-3.1 -10.75 4.15 -9.6 0.15 -9.1" fill="#2e1c33" fill-opacity="0.3019608" fill-rule="evenodd" stroke="none"/>
+      <path d="M4.65 -6.95 L4.7 -7.25 4.8 -8.35 Q0.45 -8.0 -4.05 -8.35 L-4.05 -8.2 -3.95 -7.3 -3.9 -7.1 -3.9 -7.0 -2.5 -6.75 M0.3 -6.5 L0.3 -6.45 0.3 -5.25 M4.65 -6.95 L4.4 -5.75 Q3.5 -5.1 3.2 -4.3 L3.05 -3.6 3.05 -3.1 3.05 -2.9 3.35 -1.9 4.0 0.05 4.2 0.8 M1.15 -5.0 L1.0 -5.0 M1.15 -5.0 Q2.4 -4.9 3.2 -4.3 M0.25 -1.5 L0.25 -0.95 M-0.6 -4.9 L-1.05 -4.95 Q-2.2 -4.75 -2.75 -4.0 L-2.7 -3.3 M-2.75 -2.2 L-3.55 -0.15 M-3.9 -7.0 L-3.65 -5.8 -3.6 -5.75 Q-2.95 -5.25 -2.75 -4.0" ffdec:has-small-stroke="true" ffdec:original-stroke-width="0.05" fill="none" stroke="#212121" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5019608" stroke-width="1.1193327675122597"/>
+      <path d="M0.3 -6.45 L3.3 -6.55 4.65 -6.95 M4.9 -11.15 L0.5 -11.85 -3.9 -11.5 M-2.5 -6.7 L-0.05 -6.45 0.3 -6.45" ffdec:has-small-stroke="true" ffdec:original-stroke-width="0.05" fill="none" stroke="#212121" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5019608" stroke-width="1.1193327675122597"/>
+      <path d="M-0.25 -1.2 L0.3 -1.2 0.4 -1.2 Q1.35 -1.3 1.85 -0.45 2.2 0.4 2.2 1.35 2.1 2.3 1.7 2.6 L1.1 2.7 1.05 3.7 0.35 3.7 -0.35 3.7 -0.4 2.7 -0.95 2.6 Q-1.4 2.3 -1.45 1.35 L-1.45 0.95 -1.15 -0.45 -0.25 -1.2 M1.55 1.0 L1.45 0.45 Q1.25 0.2 1.05 0.2 0.9 0.1 0.8 0.4 L0.8 0.95 0.95 1.5 1.15 1.7 1.45 1.5 1.55 1.0 M-0.25 0.15 L-0.3 0.2 -0.35 0.2 -0.7 0.45 -0.85 1.0 -0.75 1.5 -0.5 1.7 -0.45 1.7 -0.2 1.5 -0.1 0.95 -0.1 0.4 -0.25 0.15" fill="#ffffff" fill-rule="evenodd" stroke="none"/>
+      <path d="M1.55 1.0 L1.45 1.5 1.15 1.7 0.95 1.5 0.8 0.95 0.8 0.4 Q0.9 0.1 1.05 0.2 1.25 0.2 1.45 0.45 L1.55 1.0 M-0.5 1.7 L-0.75 1.5 -0.85 1.0 -0.7 0.45 -0.35 0.2 -0.3 0.2 -0.25 0.15 -0.1 0.4 -0.1 0.95 -0.25 1.5 -0.5 1.7" fill="#796546" fill-rule="evenodd" stroke="none"/>
+      <path d="M0.35 3.7 L1.05 3.7 1.1 2.7 1.7 2.6 Q2.1 2.3 2.2 1.35 2.2 0.4 1.85 -0.45 1.35 -1.3 0.4 -1.2 L0.3 -1.2 -0.25 -1.2 -1.2 -0.45 -1.45 0.95 M-1.45 1.35 Q-1.45 2.3 -1.0 2.6 L-0.45 2.7 -0.4 3.7 -0.35 3.7" ffdec:has-small-stroke="true" ffdec:original-stroke-width="0.05" fill="none" stroke="#212121" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5019608" stroke-width="1.1193327675122597"/>
+    </g>
+    </g>
+      <g height="9.15" transform="matrix(-0.9678, -0.274, -0.1368, 0.9919, -4.8, -30.3)" width="5.45">
+      <g height="7.5" id="cSram_F_Epaule00" transform="matrix(1.0, 0.0, 0.0, 1.0, 1.2, 3.6)" width="3.15" class="color3">
+      <g height="7.5" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="3.15">
+      <path d="M0.9 -1.85 Q1.4 -0.75 1.25 -0.3 L1.15 0.65 1.25 1.95 Q1.3 3.15 1.6 3.7 L-0.45 3.75 Q-0.95 3.1 -0.85 1.8 -0.8 0.3 -1.25 -1.0 L-1.3 -1.0 -1.35 -1.15 -1.4 -1.4 Q-1.65 -2.3 -1.5 -2.85 -1.35 -4.0 -0.75 -3.7 0.25 -3.35 0.9 -1.85" fill="#e0e6e9" fill-rule="evenodd" stroke="none"/>
+    </g>
+    </g>
+      <g height="4.75" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="2.9">
+      <path d="M2.8 7.3 Q2.5 6.75 2.45 5.55 L2.35 4.25 2.45 3.3 M-0.1 2.6 Q0.4 3.9 0.35 5.4 0.25 6.7 0.75 7.35" ffdec:has-small-stroke="true" ffdec:original-stroke-width="0.05" fill="none" stroke="#212121" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5019608" stroke-width="1.1378238068556603"/>
+    </g>
+      <g height="5.2" id="cSram_F_EpauleCape00" transform="matrix(1.0, 0.0, 0.0, 1.0, 2.1, 0.75)" width="5.4" class="color2">
+      <g height="5.2" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="5.4">
+      <path d="M0.15 -1.45 Q0.7 -1.45 1.25 -0.8 L2.15 0.25 2.45 0.95 2.75 2.35 Q0.45 2.85 -2.6 2.45 L-2.65 -2.35 -2.55 -2.55 Q-0.45 -1.45 0.15 -1.45" fill="#9f59aa" fill-rule="evenodd" stroke="none"/>
+    </g>
+    </g>
+      <g height="5.2" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="5.45">
+      <path d="M4.85 3.1 Q2.55 3.6 -0.5 3.2 L-0.6 1.7 Q3.2 2.4 4.55 1.7 L4.85 3.1" fill="#161a1f" fill-opacity="0.3019608" fill-rule="evenodd" stroke="none"/>
+      <path d="M4.55 1.7 L4.25 1.0 3.35 -0.05 Q2.8 -0.7 2.25 -0.7 1.65 -0.7 -0.45 -1.8 M-0.5 3.2 Q2.55 3.6 4.85 3.1 L4.55 1.7" ffdec:has-small-stroke="true" ffdec:original-stroke-width="0.05" fill="none" stroke="#212121" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5019608" stroke-width="1.1378238068556603"/>
+      <path d="M4.55 1.7 Q3.2 2.4 -0.6 1.7" ffdec:has-small-stroke="true" ffdec:original-stroke-width="0.05" fill="none" stroke="#212121" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5019608" stroke-width="1.1378238068556603"/>
+    </g>
+    </g>
+      <g height="5.65" transform="matrix(1.0, 0.0, 0.0, 1.0, -7.9, -17.7)" width="3.25">
+      <g height="5.65" id="cSram_F_Main00" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 1.85)" width="3.25" class="color1">
+      <g height="5.65" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="3.25">
+      <path d="M-1.5 -2.7 L-0.6 -2.8 0.35 -2.5 Q0.6 -1.8 0.5 -1.1 L1.65 0.75 1.65 0.8 1.05 1.55 Q0.95 1.6 0.8 1.7 L0.65 1.5 0.55 1.45 0.6 1.55 0.3 2.2 0.3 2.25 0.2 2.3 -0.05 2.6 -0.35 2.85 -0.4 2.85 -1.4 1.6 -1.45 1.25 -1.55 -0.55 -1.5 -2.7" fill="#88532d" fill-rule="evenodd" stroke="none"/>
+    </g>
+    </g>
+      <g height="5.55" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="3.25">
+      <path d="M-1.5 -0.85 L-1.55 1.3 -1.45 3.1 -1.4 3.45 -0.4 4.7 -0.35 4.7 -0.05 4.45 0.2 4.15 0.3 4.1 0.3 4.05 0.6 3.4 0.55 3.3 0.65 3.35 0.8 3.55 Q0.95 3.45 1.05 3.4 L1.65 2.65 1.65 2.6 0.5 0.75 Q0.6 0.05 0.35 -0.65" ffdec:has-small-stroke="true" ffdec:original-stroke-width="0.05" fill="none" stroke="#212121" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5019608" stroke-width="1.1363770352516862"/>
+    </g>
+    </g>
+      <g height="7.7" transform="matrix(0.9832, 0.1523, -0.2146, 0.9792, -8.25, -23.05)" width="4.5">
+      <g height="5.1" id="cSram_F_Bras00" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.7, 2.25)" width="3.15" class="color3">
+      <g height="5.1" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="3.15">
+      <path d="M-0.25 -3.45 L1.15 -3.75 1.6 -0.65 1.5 0.45 -0.15 1.0 -0.25 -3.45" fill="#e0e6e9" fill-rule="evenodd" stroke="none"/>
+      <path d="M-0.15 1.0 L-1.3 1.35 -1.35 1.15 -1.55 -1.35 -1.0 -3.5 -0.25 -3.45 -0.15 1.0" fill="#c2ced3" fill-rule="evenodd" stroke="none"/>
+    </g>
+    </g>
+      <g height="3.3" id="cSram_F_BrasManche00" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.5, 4.55)" width="3.95" class="color1">
+      <g height="3.3" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="3.95">
+      <path d="M0.05 1.55 L-0.85 1.15 Q-1.15 -0.5 -1.95 -1.5 L2.0 -1.65 1.55 1.45 0.05 1.55" fill="#88532d" fill-rule="evenodd" stroke="none"/>
+    </g>
+    </g>
+      <g height="7.6" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="4.5">
+      <path d="M1.85 -1.5 L2.3 1.6 2.2 2.6 M-0.7 3.0 L-0.85 0.9 -0.3 -1.25" ffdec:has-small-stroke="true" ffdec:original-stroke-width="0.05" fill="none" stroke="#212121" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5019608" stroke-width="1.138957042366462"/>
+      <path d="M2.45 2.0 L2.5 2.9 -1.45 3.05 Q-1.65 2.35 -2.0 2.1 L2.45 2.0" fill="#cc8245" fill-rule="evenodd" stroke="none"/>
+      <path d="M2.45 2.0 L2.5 2.9 2.05 6.0 M0.55 6.1 L-0.35 5.7 Q-0.65 4.05 -1.45 3.05 -1.65 2.35 -2.0 2.1" ffdec:has-small-stroke="true" ffdec:original-stroke-width="0.05" fill="none" stroke="#212121" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5019608" stroke-width="1.138957042366462"/>
+    </g>
+    </g>
+
+      <g height="11.45" transform="matrix(1.0, 0.0, 0.0, 1.0, -0.95, -31.6)" width="10.7">
+      <g height="9.1" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="6.2">
+      <path d="M2.25 -2.4 L2.0 -0.7 0.95 0.45 -0.9 0.5 -1.75 -0.6 -2.3 -2.5 -1.2 -1.55 -1.15 -1.55 -0.7 -0.6 0.95 -0.6 1.25 -1.45 1.35 -1.5 2.25 -2.4" fill="#ffffff" fill-rule="evenodd" stroke="none"/>
+      <path d="M-2.3 -2.5 L-2.75 -2.7 -3.15 -6.25 -2.55 -7.9 Q0.0 -9.25 2.3 -7.9 L3.05 -6.15 2.65 -2.75 2.25 -2.4 1.35 -1.5 1.25 -1.45 0.55 -1.4 -0.5 -1.4 -1.15 -1.55 -1.2 -1.55 -2.3 -2.5" fill="#fff5df" fill-rule="evenodd" stroke="none"/>
+      <path d="M2.25 -2.4 L2.0 -0.7 0.95 0.45 -0.9 0.5 -1.75 -0.6 -2.3 -2.5 -1.2 -1.55 -1.15 -1.55 -0.5 -1.4 0.55 -1.4 1.25 -1.45 1.35 -1.5 2.25 -2.4 Z" ffdec:has-small-stroke="true" ffdec:original-stroke-width="0.05" fill="none" stroke="#212121" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5019608" stroke-width="1.1363770352516862"/>
+      <path d="M2.1 -3.45 L2.0 -4.55 Q2.15 -4.45 2.35 -4.3 L2.25 -3.15 2.1 -3.45" fill="#d2af8c" fill-rule="evenodd" stroke="none"/>
+      <path d="M1.25 -2.7 L1.3 -2.65 2.1 -3.35 2.1 -3.45 2.25 -3.15 2.25 -3.1 1.75 -2.2 1.15 -2.6 1.25 -2.7" fill="#e6d2bd" fill-rule="evenodd" stroke="none"/>
+      <path d="M1.25 -2.7 L0.65 -3.1 0.65 -3.8 1.3 -4.55 2.0 -4.3 2.1 -3.45 2.1 -3.35 1.3 -2.65 1.25 -2.7" fill="#000000" fill-rule="evenodd" stroke="none"/>
+      <path d="M-1.9 -3.5 L-1.8 -4.6 -2.15 -4.35 -2.05 -3.2 -1.9 -3.5" fill="#d2af8c" fill-rule="evenodd" stroke="none"/>
+      <path d="M-1.05 -2.75 L-1.1 -2.7 -1.9 -3.4 -1.9 -3.5 -2.05 -3.2 -2.05 -3.15 -1.55 -2.25 -0.95 -2.65 -1.05 -2.75" fill="#e6d2bd" fill-rule="evenodd" stroke="none"/>
+      <path d="M-1.05 -2.75 L-0.45 -3.15 -0.45 -3.85 -1.1 -4.6 -1.8 -4.35 -1.9 -3.5 -1.9 -3.4 -1.1 -2.7 -1.05 -2.75" fill="#000000" fill-rule="evenodd" stroke="none"/>
+    </g>
+      <g height="11.45" id="cSram_F_Capuche" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.05, -5.0)" width="10.7" class="color2">
+      <g height="11.45" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="10.7">
+      <path d="M3.9 -1.15 Q4.6 0.7 4.5 2.55 5.0 2.95 5.35 4.3 4.55 5.3 2.65 5.7 L2.45 4.85 Q3.1 3.45 2.7 1.85 1.75 1.1 1.25 -0.35 0.7 -1.8 0.0 -1.8 -0.75 -1.8 -1.25 -0.35 -1.8 1.1 -2.75 1.85 -3.1 3.45 -2.45 4.85 L-2.65 5.7 Q-4.55 5.3 -5.35 4.3 -4.95 2.95 -4.5 2.55 -4.8 1.35 -3.9 -1.15 -3.9 -2.65 -2.55 -4.25 -1.15 -5.95 -0.05 -5.7 1.1 -5.95 2.55 -4.25 3.85 -2.65 3.9 -1.15 M-0.05 -4.65 L-0.1 -4.65 -0.05 -4.65" fill="#9f59aa" fill-rule="evenodd" stroke="none"/>
+      <path d="M-0.05 -4.65 L-0.1 -4.65 -0.05 -4.65" fill="#75437e" fill-rule="evenodd" stroke="none"/>
+    </g>
+    </g>
+      <g height="11.45" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="10.7">
+      <path d="M2.6 -9.25 Q3.9 -7.65 3.95 -6.15 4.65 -4.3 4.55 -2.45 5.05 -2.05 5.4 -0.7 4.6 0.3 2.7 0.7 L2.5 -0.15 Q3.15 -1.55 2.75 -3.15 1.8 -3.9 1.3 -5.35 0.75 -6.8 0.05 -6.8 -0.7 -6.8 -1.2 -5.35 -1.75 -3.9 -2.7 -3.15 -3.05 -1.55 -2.4 -0.15 L-2.6 0.7 Q-4.5 0.3 -5.3 -0.7 -4.9 -2.05 -4.45 -2.45 -4.75 -3.65 -3.85 -6.15 -3.85 -7.65 -2.5 -9.25 -1.1 -10.95 0.0 -10.7 1.15 -10.95 2.6 -9.25 Z" ffdec:has-small-stroke="true" ffdec:original-stroke-width="0.05" fill="none" stroke="#212121" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5019608" stroke-width="1.1363770352516862"/>
+      <path d="M0.0 -10.7 Q1.15 -10.95 2.6 -9.25 3.9 -7.65 3.95 -6.15 4.65 -4.3 4.55 -2.45 5.05 -2.05 5.4 -0.7 4.6 0.3 2.7 0.7 L2.5 -0.15 3.5 -1.5 Q3.85 -3.6 2.0 -5.8 L1.85 -6.1 Q2.25 -8.9 0.15 -9.65 0.05 -9.7 0.05 -9.7 L-0.05 -9.65 Q-2.15 -8.9 -1.8 -6.1 L-1.9 -5.8 Q-3.8 -3.6 -3.4 -1.5 L-2.4 -0.15 -2.6 0.7 Q-4.5 0.3 -5.3 -0.7 -4.9 -2.05 -4.45 -2.45 -4.75 -3.65 -3.85 -6.15 -3.85 -7.65 -2.5 -9.25 -1.1 -10.95 0.0 -10.7" fill="#161b1f" fill-opacity="0.15294118" fill-rule="evenodd" stroke="none"/>
+    </g>
+    </g>
+
+
+    </g>
+  </g>
+  <defs>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </defs>
+</svg>

@@ -1,0 +1,319 @@
+<svg xmlns:ffdec="https://www.free-decompiler.com/flash" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" ffdec:objectType="frame" height="53.05px" width="25.1px">
+  <g transform="matrix(1.0, 0.0, 0.0, 1.0, 14.55, 49.65)">
+    <g height="53.05" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="25.1">
+      <g height="10.5" transform="matrix(0.7982, 0.0, 0.0, 0.8, 0.0, 0.05)" width="21.0">
+      <g height="10.5" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="21.0">
+      <pattern height="15" id="PatternID_2_1" overflow="visible" patternTransform="matrix(0.7, 0.0, 0.0, 0.7, -10.6, -6.3)" patternUnits="userSpaceOnUse" viewBox="0 0 30 15" width="30">
+        <image height="15" style="image-rendering:optimizeQuality" width="30" xlink:href="data:image/PNG;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAPCAYAAADzun+cAAAB8klEQVR4XtWV107DQBBFR4TeIfQiQhNF9N5xAgk11P//F+5hdomxEh4QL4x0ZHuz3jvVMfsn1iZ6RbtoDfSl1v7MmszFOkVeDIkRMSoKYiasTYQ1nOgO5OyXRjSIIYTAktgRB+JQHIkTcZHiWGyJVTEphkW/uSOc96O1mEdJJHNiTZyLK3GvMO50fRRPqSvcixtRCvt3xZ6502QDcc6ta/wwYB7linkEibkYhz+L98CreAlrb+GZ+2rYixPX4lTMi0HRZXVKQCoQpV6k68w8yijIwdzfWu1wonwIV2ANZ3CM+4rVol8W06LHMuIdYlwsiHVxkXMR0hkjioIx6izsQzhmAmcSsWHeI2SSmqP1aYwCC9RiVmyKYhCOEXCNUWUF0+mPGXqhH0TRPN37Ysy8d+j+T0OYBxbpRro2MU9VjJgDSSvwnBXEMX6LjsVS0GycR6PmzWeeBv4y8s4C3Vcw95D6lM1TDFEAYmTAPaQdQJR3ESXVZJJUN1sDQ5gNi+bzyKySKhqN7q5Xz/QaguxNwruMIyPFTFNbPkoNjbYnLdRkynweL83rVVJqKmGeq7qWc7XRScI+poJmomzAKDWc4azF8aLuiBcCRLCdgkaMXzQmgj2MJFmjb371DSctvEgGuMY/CWAKiITDgT180+Fb89SzDx/gPN/y71OFAAAAAElFTkSuQmCC"/>
+      </pattern>
+      <path d="M-10.6 -6.3 L10.4 -6.3 10.4 4.2 -10.6 4.2 -10.6 -6.3" ffdec:fill-bitmapId="1" fill-rule="evenodd" style="fill:url(#PatternID_2_1)"/>
+    </g>
+    </g>
+
+      <g height="4.3" transform="matrix(0.9581, -0.0741, 0.5342, 1.0, 4.25, -3.05)" width="4.05">
+      <g height="4.3" id="cIopRPied00" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.65, 2.45)" width="4.05" class="color1">
+      <g height="4.3" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="4.05">
+      <path d="M1.55 -1.95 L1.8 -0.4 2.05 1.7 Q1.55 2.2 -0.1 2.15 -1.85 2.05 -2.0 1.4 L-1.1 -2.15 1.55 -1.95" fill="#f40b0b" fill-rule="evenodd" stroke="none"/>
+    </g>
+    </g>
+      <g height="4.3" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="4.05">
+      <path d="M-0.45 0.3 L-1.35 3.85 Q-1.2 4.5 0.55 4.6 2.2 4.65 2.7 4.15 L2.45 2.05 2.2 0.5" ffdec:has-small-stroke="true" ffdec:original-stroke-width="0.05" fill="none" stroke="#1c1c1c" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5019608" stroke-width="1.001151213549546"/>
+    </g>
+    </g>
+      <g height="4.3" transform="matrix(0.9977, 0.0, -0.1373, 1.0, -5.05, -3.15)" width="4.05">
+      <g height="4.3" id="cIopRPied00" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.65, 2.45)" width="4.05" class="color1">
+      <g height="4.3" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="4.05">
+      <path d="M1.55 -1.95 L1.8 -0.4 2.05 1.7 Q1.55 2.2 -0.1 2.15 -1.85 2.05 -2.0 1.4 L-1.1 -2.15 1.55 -1.95" fill="#f40b0b" fill-rule="evenodd" stroke="none"/>
+    </g>
+    </g>
+      <g height="4.3" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="4.05">
+      <path d="M-0.45 0.3 L-1.35 3.85 Q-1.2 4.5 0.55 4.6 2.2 4.65 2.7 4.15 L2.45 2.05 2.2 0.5" ffdec:has-small-stroke="true" ffdec:original-stroke-width="0.05" fill="none" stroke="#1c1c1c" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5019608" stroke-width="1.0011387218674583"/>
+    </g>
+    </g>
+      <g height="10.7" transform="matrix(-0.9754, -0.291, -0.3041, 0.9289, -2.4, -17.65)" width="5.45">
+      <g height="10.7" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="5.45">
+      <path d="M2.6 0.75 Q2.85 4.2 1.2 7.3 0.7 8.2 0.15 9.9 -1.3 10.35 -2.8 9.35 -2.35 7.8 -2.5 6.8 -3.0 4.15 -1.2 -0.65 2.4 0.6 2.6 0.75" fill="#52514b" fill-rule="evenodd" stroke="none"/>
+      <path d="M0.15 9.9 Q0.7 8.2 1.2 7.3 2.85 4.2 2.6 0.75 M-1.2 -0.65 Q-3.0 4.15 -2.5 6.8 -2.35 7.8 -2.8 9.35" ffdec:has-small-stroke="true" ffdec:original-stroke-width="0.05" fill="none" stroke="#1f1f1f" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.3019608" stroke-width="1.002713663019465"/>
+    </g>
+    </g>
+      <g height="7.95" transform="matrix(-0.9797, -0.125, -0.2025, 0.9926, -3.85, -10.95)" width="4.25">
+      <g height="4.2" id="cIop_R_Jambe00" transform="matrix(1.0, 0.0, 0.0, 1.0, -0.65, 7.1)" width="3.5" class="color1">
+      <g height="4.2" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="3.5">
+      <path d="M-1.7 1.0 Q-1.85 -1.5 -1.6 -2.1 L1.75 -1.85 Q0.9 0.1 0.95 2.1 -1.2 1.8 -1.65 1.1 L-1.7 1.0" fill="#f40b0b" fill-rule="evenodd" stroke="none"/>
+    </g>
+    </g>
+      <g height="4.35" id="cIop_R_JambeBas00" transform="matrix(1.0, 0.0, 0.0, 1.0, -0.5, 3.5)" width="4.2" class="color3">
+      <g height="4.35" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="4.2">
+      <path d="M2.1 1.85 L0.9 2.0 Q-0.25 2.35 -1.05 2.0 L-1.5 1.8 -2.1 1.4 -1.45 -2.2 Q0.15 -1.15 2.0 -1.55 L2.1 1.85" fill="#ddd6c1" fill-rule="evenodd" stroke="none"/>
+    </g>
+    </g>
+      <g height="7.95" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="4.25">
+      <path d="M0.25 9.2 Q0.2 7.2 1.0 5.5 L1.6 5.45 1.6 1.95 Q-0.35 2.35 -1.9 1.25 L-2.65 4.85 Q-2.5 4.9 -2.3 5.05 L-2.0 5.3 M-2.3 5.05 L-2.4 8.1" ffdec:has-small-stroke="true" ffdec:original-stroke-width="0.05" fill="none" stroke="#1c1c1c" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5019608" stroke-width="1.0011501270285705"/>
+      <path d="M0.35 8.65 L-2.45 8.55 -2.3 7.6 0.45 7.55 0.35 8.65" fill="#4a4946" fill-rule="evenodd" stroke="none"/>
+    </g>
+    </g>
+      <g height="10.7" transform="matrix(0.942, -0.3831, 0.4825, 0.8595, 0.5, -16.95)" width="5.45">
+      <g height="10.7" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="5.45">
+      <path d="M2.6 0.75 Q2.85 4.2 1.2 7.3 0.7 8.2 0.15 9.9 -1.3 10.35 -2.8 9.35 -2.35 7.8 -2.5 6.8 -3.0 4.15 -1.2 -0.65 2.4 0.6 2.6 0.75" fill="#52514b" fill-rule="evenodd" stroke="none"/>
+      <path d="M0.15 9.9 Q0.7 8.2 1.2 7.3 2.85 4.2 2.6 0.75 M-1.2 -0.65 Q-3.0 4.15 -2.5 6.8 -2.35 7.8 -2.8 9.35" ffdec:has-small-stroke="true" ffdec:original-stroke-width="0.05" fill="none" stroke="#1f1f1f" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.3019608" stroke-width="1.0027514411608074"/>
+    </g>
+    </g>
+      <g height="7.95" transform="matrix(0.9647, -0.0806, 0.397, 0.9676, 3.15, -10.65)" width="4.25">
+      <g height="4.2" id="cIop_R_Jambe00" transform="matrix(1.0, 0.0, 0.0, 1.0, -0.65, 7.1)" width="3.5" class="color1">
+      <g height="4.2" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="3.5">
+      <path d="M-1.7 1.0 Q-1.85 -1.5 -1.6 -2.1 L1.75 -1.85 Q0.9 0.1 0.95 2.1 -1.2 1.8 -1.65 1.1 L-1.7 1.0" fill="#f40b0b" fill-rule="evenodd" stroke="none"/>
+    </g>
+    </g>
+      <g height="4.35" id="cIop_R_JambeBas00" transform="matrix(1.0, 0.0, 0.0, 1.0, -0.5, 3.5)" width="4.2" class="color3">
+      <g height="4.35" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="4.2">
+      <path d="M2.1 1.85 L0.9 2.0 Q-0.25 2.35 -1.05 2.0 L-1.5 1.8 -2.1 1.4 -1.45 -2.2 Q0.15 -1.15 2.0 -1.55 L2.1 1.85" fill="#ddd6c1" fill-rule="evenodd" stroke="none"/>
+    </g>
+    </g>
+      <g height="7.95" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="4.25">
+      <path d="M0.25 9.2 Q0.2 7.2 1.0 5.5 L1.6 5.45 1.6 1.95 Q-0.35 2.35 -1.9 1.25 L-2.65 4.85 Q-2.5 4.9 -2.3 5.05 L-2.0 5.3 M-2.3 5.05 L-2.4 8.1" ffdec:has-small-stroke="true" ffdec:original-stroke-width="0.05" fill="none" stroke="#1c1c1c" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5019608" stroke-width="1.017769002994932"/>
+      <path d="M0.35 8.65 L-2.45 8.55 -2.3 7.6 0.45 7.55 0.35 8.65" fill="#4a4946" fill-rule="evenodd" stroke="none"/>
+    </g>
+    </g>
+      <g height="5.85" transform="matrix(1.2885, -0.1805, 0.0714, 0.7448, -8.4, -19.1)" width="2.65">
+      <g height="5.85" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="2.65">
+      <path d="M0.25 0.35 L0.4 1.75 0.25 2.5 1.3 3.7 0.85 4.5 0.85 4.55 -0.1 5.6 -0.35 5.85 -1.2 4.55 -1.25 4.2 -1.3 2.35 -1.3 0.1 -0.5 0.0 Q-0.15 0.05 0.25 0.35" fill="#ffce8c" fill-rule="evenodd" stroke="none"/>
+      <path d="M1.3 3.7 L0.25 2.5 0.4 1.75 1.3 3.7" fill="#daa674" fill-rule="evenodd" stroke="none"/>
+      <path d="M0.4 1.75 L0.25 0.35 M-1.3 0.1 L-1.3 2.35 -1.25 4.2 -1.2 4.55 -0.35 5.85 -0.1 5.6 0.85 4.55 0.85 4.5 1.3 3.7 0.4 1.75" ffdec:has-small-stroke="true" ffdec:original-stroke-width="0.05" fill="none" stroke="#1f1f1f" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.3019608" stroke-width="1.0140246523815937"/>
+    </g>
+    </g>
+      <g height="9.75" transform="matrix(1.0473, 0.1429, 0.0285, 1.0419, -1.3, -19.85)" width="12.15">
+      <g height="9.75" id="cIop_F_Bassin" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.3, 3.25)" width="12.15" class="color3">
+      <g height="9.75" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="12.15">
+      <path d="M-3.9 -3.85 Q0.6 -3.05 3.65 -4.85 5.5 -0.5 6.1 3.1 L3.6 4.25 -2.6 4.6 -6.05 3.8 Q-5.0 2.05 -4.8 -0.45 -4.65 -3.0 -3.9 -3.85" fill="#fbf4ce" fill-rule="evenodd" stroke="none"/>
+    </g>
+    </g>
+      <g height="9.75" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="12.15">
+      <path d="M3.95 -1.6 Q5.8 2.75 6.4 6.35 L3.9 7.5 Q0.55 8.6 -2.3 7.85 L-5.75 7.05 Q-4.7 5.3 -4.5 2.8 -4.35 0.25 -3.6 -0.6" ffdec:has-small-stroke="true" ffdec:original-stroke-width="0.05" fill="none" stroke="#1f1f1f" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5019608" stroke-width="0.9591273202612278"/>
+      <path d="M-2.3 0.55 Q-2.4 4.4 1.4 6.3 -2.45 6.35 -3.4 4.45 -3.15 2.0 -2.3 0.55" fill="#7e5512" fill-opacity="0.3019608" fill-rule="evenodd" stroke="none"/>
+    </g>
+      <g height="5.35" id="cIop_F_Croix01" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.15, 2.45)" width="2.45" class="color1">
+      <g height="5.35" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="2.45">
+      <path d="M-0.9 -2.65 L1.2 -2.65 1.25 2.65 -1.2 2.7 -0.9 -2.65" fill="#fa6230" fill-rule="evenodd" stroke="none"/>
+    </g>
+    </g>
+    </g>
+      <g height="14.05" transform="matrix(1.0016, 0.0505, 0.0211, 1.0295, -1.25, -20.5)" width="9.9">
+      <g height="12.7" id="cIop_F_Corps" transform="matrix(0.9637, 0.0, 0.0, 0.9557, 0.2, -6.0)" width="10.25" class="color3">
+      <g height="12.7" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="10.25">
+      <path d="M3.25 -6.4 L3.85 -6.05 5.05 -4.85 Q5.6 -0.95 4.4 1.1 4.05 1.7 3.6 4.85 L3.6 5.65 1.2 6.25 0.0 6.3 0.0 6.25 -1.05 6.2 -2.45 5.95 -3.45 5.6 -3.5 4.8 Q-3.95 2.0 -4.55 0.9 L-5.0 -1.2 Q-5.15 -2.25 -4.7 -4.65 L-3.5 -5.85 -2.85 -6.35 Q-2.75 -4.15 0.45 -4.0 2.8 -4.05 3.25 -6.4" fill="#fbf4ce" fill-rule="evenodd" stroke="none"/>
+    </g>
+    </g>
+      <g height="14.05" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="9.9">
+      <path d="M0.3 -12.65 Q2.35 -12.8 3.65 -11.9 3.25 -9.9 0.65 -9.75 -2.85 -9.9 -2.7 -12.0 -1.5 -12.85 0.3 -12.7 L0.3 -12.65" fill="#d9ac80" fill-rule="evenodd" stroke="none"/>
+      <path d="M3.65 -0.6 L3.85 -2.35 Q4.05 -3.8 4.8 -5.75 5.55 -7.7 5.0 -10.7 M-4.65 -7.65 Q-4.6 -5.85 -4.05 -4.85 -3.5 -3.9 -3.3 -2.45 L-3.15 -0.65" ffdec:has-small-stroke="true" ffdec:original-stroke-width="0.05" fill="none" stroke="#1f1f1f" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5019608" stroke-width="0.9853221103514769"/>
+      <path d="M1.55 0.9 L1.2 0.95 -0.7 0.95 -3.2 0.4 Q-3.45 0.3 -3.25 -0.95 L0.05 -0.65 0.45 -0.65 3.75 -0.95 Q3.95 0.3 3.7 0.4 L3.1 0.6 Q3.2 -0.1 2.8 -0.35 2.15 -0.7 1.5 -0.35 L1.55 0.9" fill="#4a4946" fill-rule="evenodd" stroke="none"/>
+      <path d="M1.55 0.9 L1.5 -0.35 Q2.15 -0.7 2.8 -0.35 3.2 -0.1 3.1 0.6 2.95 1.35 2.45 1.35 2.05 0.95 1.9 1.0 L1.5 1.3 1.55 0.9" fill="#5a5854" fill-rule="evenodd" stroke="none"/>
+      <path d="M1.85 -0.8 L1.8 1.15 1.55 1.2 -0.75 1.15 -0.7 -0.55 -0.65 -0.8 1.5 -0.9 1.85 -0.8 M1.35 0.8 L1.35 -0.5 -0.15 -0.5 -0.25 0.85 1.35 0.8" fill="#ffff33" fill-rule="evenodd" stroke="none"/>
+      <path d="M1.0 -0.1 L1.15 0.0 1.15 0.05 1.0 0.25 0.65 0.45 0.25 0.55 0.05 0.45 0.05 0.4 0.2 0.2 0.65 -0.05 1.0 -0.1" fill="#ffff33" fill-rule="evenodd" stroke="none"/>
+      <path d="M4.1 -5.35 L2.6 -1.95 Q2.4 -4.35 1.35 -5.6 1.95 -5.1 3.15 -5.15 L4.1 -5.35 M-2.4 -0.2 Q-3.25 -1.6 -3.4 -3.5 L-3.45 -5.15 -1.6 -5.6 Q-0.25 -6.1 -0.1 -7.5 L0.0 -5.5 -1.05 -4.9 Q-2.7 -2.3 -2.4 -0.2" fill="#7e5512" fill-opacity="0.3019608" fill-rule="evenodd" stroke="none"/>
+    </g>
+      <g height="9.15" id="cIop_F_Croix00" transform="matrix(0.9637, 0.0, 0.0, 0.9557, 0.35, -4.55)" width="5.9" class="color1">
+      <g height="9.15" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="5.9">
+      <path d="M1.2 -2.15 L2.95 -2.0 2.95 0.2 1.35 0.75 1.1 4.45 -0.85 4.55 -1.05 0.7 -2.95 0.2 -2.95 -1.85 -0.95 -2.1 -0.85 -4.55 1.05 -4.6 1.2 -2.15" fill="#fa6230" fill-rule="evenodd" stroke="none"/>
+    </g>
+    </g>
+      <g height="5.7" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="5.6">
+      <path d="M0.55 -5.95 L3.15 -5.4 3.15 -4.35 1.65 -3.85 Q-0.35 -3.15 -0.45 -0.25 L-0.65 -3.9 -2.45 -4.35 -2.45 -5.35 0.55 -5.95" fill="#380000" fill-opacity="0.3019608" fill-rule="evenodd" stroke="none"/>
+    </g>
+    </g>
+      <g height="10.3" transform="matrix(0.9628, -0.1279, 0.1419, 1.0127, 3.7, -30.15)" width="6.25">
+      <g height="7.15" id="cIop_F_Epaule00" transform="matrix(1.0, 0.0, 0.0, 1.0, 1.65, 3.9)" width="4.0" class="color3">
+      <g height="7.15" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="4.0">
+      <path d="M1.95 -0.9 Q1.7 0.9 1.9 1.3 2.2 2.25 1.55 3.6 L-1.4 3.55 -1.8 1.45 -1.95 -0.6 Q-2.1 -0.8 0.0 -2.6 1.9 -4.25 1.7 -3.0 2.1 -2.25 1.95 -0.9" fill="#fbf4ce" fill-rule="evenodd" stroke="none"/>
+    </g>
+    </g>
+      <g height="6.6" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="4.0">
+      <path d="M3.35 0.9 Q3.75 1.65 3.6 3.0 3.35 4.8 3.55 5.2 3.85 6.15 3.2 7.5 M0.25 7.45 L-0.15 5.35 -0.3 3.3" ffdec:has-small-stroke="true" ffdec:original-stroke-width="0.05" fill="none" stroke="#1f1f1f" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.3019608" stroke-width="1.0034090063880858"/>
+      <path d="M1.7 2.8 L1.05 3.25 1.45 7.45 0.25 7.45 -0.15 5.35 -0.3 3.3 0.25 2.55 1.7 2.8" fill="#7e5512" fill-opacity="0.3019608" fill-rule="evenodd" stroke="none"/>
+      <path d="M1.7 2.8 L2.05 2.85" ffdec:has-small-stroke="true" ffdec:original-stroke-width="0.05" fill="none" stroke="#825115" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.0034090063880858"/>
+    </g>
+      <g height="5.65" id="cIop_F_Epaulette00" transform="matrix(1.0, 0.0, 0.0, 1.0, 1.6, 0.0)" width="6.25" class="color1">
+      <g height="5.65" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="6.25">
+      <path d="M1.75 -1.0 Q1.95 -1.5 2.65 -1.15 3.25 -0.25 3.1 0.2 L3.05 0.5 Q2.65 -0.2 2.05 0.0 L1.75 -1.0 M-3.1 -2.25 L-2.6 -2.8 Q-1.8 -2.85 -1.9 -2.2 L-1.7 -1.55 Q-2.4 -2.4 -3.1 -2.25" fill="#ff0b0b" fill-rule="evenodd" stroke="none"/>
+      <path d="M1.75 -1.0 L2.05 0.0 Q2.65 -0.2 3.05 0.5 L2.4 2.35 Q-0.3 3.35 -1.65 2.4 L-2.65 0.1 -3.1 -2.25 Q-2.4 -2.4 -1.7 -1.55 L-1.9 -2.2 Q0.25 -0.95 1.75 -1.0" fill="#f40b0b" fill-rule="evenodd" stroke="none"/>
+    </g>
+    </g>
+      <g height="5.65" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="6.25">
+      <path d="M3.35 -1.0 Q1.85 -0.95 -0.3 -2.2 -0.2 -2.85 -1.0 -2.8 L-1.5 -2.25 -1.05 0.1 -0.05 2.4 Q1.3 3.35 4.0 2.35 4.35 2.1 4.65 0.5 L4.7 0.2 Q4.85 -0.25 4.25 -1.15 3.55 -1.5 3.35 -1.0 Z" ffdec:has-small-stroke="true" ffdec:original-stroke-width="0.05" fill="none" stroke="#1c1c1c" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5019608" stroke-width="1.0034090063880858"/>
+      <path d="M-0.1 -1.55 L-0.25 -0.7 Q0.1 1.15 0.45 1.45 1.2 2.1 1.9 2.0 L3.35 1.45 Q3.7 0.95 3.65 0.05 L3.65 0.0 Q4.25 -0.2 4.65 0.5 4.35 2.1 4.0 2.35 1.3 3.35 -0.05 2.4 L-1.05 0.1 -1.5 -2.25 Q-0.8 -2.4 -0.1 -1.55" fill="#000000" fill-opacity="0.18039216" fill-rule="evenodd" stroke="none"/>
+      <path d="M-0.1 -1.55 L-0.3 -2.2 Q1.85 -0.95 3.35 -1.0 3.6 -0.75 3.65 0.0 L3.4 -0.1 Q1.75 -0.05 -0.1 -1.55" fill="#ffffff" fill-opacity="0.30980393" fill-rule="evenodd" stroke="none"/>
+    </g>
+    </g>
+      <g height="10.3" transform="matrix(-0.9463, -0.2602, -0.1557, 1.0064, -5.9, -30.8)" width="6.25">
+      <g height="7.15" id="cIop_F_Epaule00" transform="matrix(1.0, 0.0, 0.0, 1.0, 1.65, 3.9)" width="4.0" class="color3">
+      <g height="7.15" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="4.0">
+      <path d="M1.95 -0.9 Q1.7 0.9 1.9 1.3 2.2 2.25 1.55 3.6 L-1.4 3.55 -1.8 1.45 -1.95 -0.6 Q-2.1 -0.8 0.0 -2.6 1.9 -4.25 1.7 -3.0 2.1 -2.25 1.95 -0.9" fill="#fbf4ce" fill-rule="evenodd" stroke="none"/>
+    </g>
+    </g>
+      <g height="6.6" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="4.0">
+      <path d="M3.35 0.9 Q3.75 1.65 3.6 3.0 3.35 4.8 3.55 5.2 3.85 6.15 3.2 7.5 M0.25 7.45 L-0.15 5.35 -0.3 3.3" ffdec:has-small-stroke="true" ffdec:original-stroke-width="0.05" fill="none" stroke="#1f1f1f" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.3019608" stroke-width="1.0036248679682902"/>
+      <path d="M1.7 2.8 L1.05 3.25 1.45 7.45 0.25 7.45 -0.15 5.35 -0.3 3.3 0.25 2.55 1.7 2.8" fill="#7e5512" fill-opacity="0.3019608" fill-rule="evenodd" stroke="none"/>
+      <path d="M1.7 2.8 L2.05 2.85" ffdec:has-small-stroke="true" ffdec:original-stroke-width="0.05" fill="none" stroke="#825115" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.0036248679682902"/>
+    </g>
+      <g height="5.65" id="cIop_F_Epaulette00" transform="matrix(1.0, 0.0, 0.0, 1.0, 1.6, 0.0)" width="6.25" class="color1">
+      <g height="5.65" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="6.25">
+      <path d="M1.75 -1.0 Q1.95 -1.5 2.65 -1.15 3.25 -0.25 3.1 0.2 L3.05 0.5 Q2.65 -0.2 2.05 0.0 L1.75 -1.0 M-3.1 -2.25 L-2.6 -2.8 Q-1.8 -2.85 -1.9 -2.2 L-1.7 -1.55 Q-2.4 -2.4 -3.1 -2.25" fill="#ff0b0b" fill-rule="evenodd" stroke="none"/>
+      <path d="M1.75 -1.0 L2.05 0.0 Q2.65 -0.2 3.05 0.5 L2.4 2.35 Q-0.3 3.35 -1.65 2.4 L-2.65 0.1 -3.1 -2.25 Q-2.4 -2.4 -1.7 -1.55 L-1.9 -2.2 Q0.25 -0.95 1.75 -1.0" fill="#f40b0b" fill-rule="evenodd" stroke="none"/>
+    </g>
+    </g>
+      <g height="5.65" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="6.25">
+      <path d="M3.35 -1.0 Q1.85 -0.95 -0.3 -2.2 -0.2 -2.85 -1.0 -2.8 L-1.5 -2.25 -1.05 0.1 -0.05 2.4 Q1.3 3.35 4.0 2.35 4.35 2.1 4.65 0.5 L4.7 0.2 Q4.85 -0.25 4.25 -1.15 3.55 -1.5 3.35 -1.0 Z" ffdec:has-small-stroke="true" ffdec:original-stroke-width="0.05" fill="none" stroke="#1c1c1c" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5019608" stroke-width="1.0036248679682902"/>
+      <path d="M-0.1 -1.55 L-0.25 -0.7 Q0.1 1.15 0.45 1.45 1.2 2.1 1.9 2.0 L3.35 1.45 Q3.7 0.95 3.65 0.05 L3.65 0.0 Q4.25 -0.2 4.65 0.5 4.35 2.1 4.0 2.35 1.3 3.35 -0.05 2.4 L-1.05 0.1 -1.5 -2.25 Q-0.8 -2.4 -0.1 -1.55" fill="#000000" fill-opacity="0.18039216" fill-rule="evenodd" stroke="none"/>
+      <path d="M-0.1 -1.55 L-0.3 -2.2 Q1.85 -0.95 3.35 -1.0 3.6 -0.75 3.65 0.0 L3.4 -0.1 Q1.75 -0.05 -0.1 -1.55" fill="#ffffff" fill-opacity="0.30980393" fill-rule="evenodd" stroke="none"/>
+    </g>
+    </g>
+      <g height="5.85" transform="matrix(-1.0741, 0.0, 0.0, 0.9316, 5.9, -19.95)" width="2.65">
+      <g height="5.85" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="2.65">
+      <path d="M0.25 0.35 L0.4 1.75 0.25 2.5 1.3 3.7 0.85 4.5 0.85 4.55 -0.1 5.6 -0.35 5.85 -1.2 4.55 -1.25 4.2 -1.3 2.35 -1.3 0.1 -0.5 0.0 Q-0.15 0.05 0.25 0.35" fill="#ffce8c" fill-rule="evenodd" stroke="none"/>
+      <path d="M1.3 3.7 L0.25 2.5 0.4 1.75 1.3 3.7" fill="#daa674" fill-rule="evenodd" stroke="none"/>
+      <path d="M0.4 1.75 L0.25 0.35 M-1.3 0.1 L-1.3 2.35 -1.25 4.2 -1.2 4.55 -0.35 5.85 -0.1 5.6 0.85 4.55 0.85 4.5 1.3 3.7 0.4 1.75" ffdec:has-small-stroke="true" ffdec:original-stroke-width="0.05" fill="none" stroke="#1f1f1f" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.3019608" stroke-width="0.9996865066737803"/>
+    </g>
+    </g>
+      <g height="9.4" transform="matrix(1.0112, 0.1716, -0.1291, 0.8042, 5.2, -23.0)" width="6.2">
+      <g height="7.85" id="cIop_F_Bras00" transform="matrix(1.0, 0.0, 0.0, 1.0, 1.05, 2.1)" width="4.55" class="color3">
+      <g height="7.85" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="4.55">
+      <path d="M1.85 -3.9 Q2.4 -3.1 2.3 -2.45 L2.1 0.7 Q2.0 2.75 1.15 3.95 L-1.0 3.65 Q-1.55 1.15 -2.05 -0.5 -2.35 -1.4 -2.2 -3.5 L1.85 -3.9" fill="#fbf4ce" fill-rule="evenodd" stroke="none"/>
+    </g>
+    </g>
+      <g height="7.85" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="6.2">
+      <path d="M2.9 -1.8 Q3.45 -1.0 3.35 -0.35 L3.15 2.8 Q3.05 4.85 2.2 6.05 L0.05 5.75 -1.0 1.6 Q-1.3 0.7 -1.15 -1.4 L2.9 -1.8" fill="#7e5512" fill-opacity="0.3019608" fill-rule="evenodd" stroke="none"/>
+      <path d="M2.7 2.45 L-1.0 2.35 -1.25 0.7 Q0.45 -0.15 2.6 1.0 L2.7 2.45" fill="#4a4946" fill-rule="evenodd" stroke="none"/>
+      <path d="M2.8 -0.55 L4.3 -0.6 Q4.65 -0.9 4.75 -0.75 4.6 0.6 2.95 1.25 2.6 0.4 2.8 -0.55" fill="#e7d292" fill-rule="evenodd" stroke="none"/>
+      <path d="M4.75 -0.75 Q5.05 -0.3 4.95 0.25 4.1 1.55 2.9 1.6 L2.95 1.25 Q4.6 0.6 4.75 -0.75" fill="#fbf0cc" fill-rule="evenodd" stroke="none"/>
+      <path d="M2.8 -0.55 L4.3 -0.6 Q4.65 -0.9 4.75 -0.75" ffdec:has-small-stroke="true" ffdec:original-stroke-width="0.05" fill="none" stroke="#8d7847" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.094116213812326"/>
+      <path d="M2.7 3.85 Q3.9 3.6 4.1 2.35 L4.2 3.35 Q3.5 4.3 2.7 4.2 L2.7 3.85" fill="#fbf0cc" fill-rule="evenodd" stroke="none"/>
+      <path d="M4.1 2.35 Q3.9 3.6 2.7 3.85 2.45 2.9 2.8 2.1 3.3 2.65 3.75 2.35 4.1 2.2 4.1 2.35" fill="#e7d292" fill-rule="evenodd" stroke="none"/>
+      <path d="M4.1 2.35 Q4.1 2.2 3.75 2.35 3.3 2.65 2.8 2.1" ffdec:has-small-stroke="true" ffdec:original-stroke-width="0.05" fill="none" stroke="#8d7847" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.094116213812326"/>
+    </g>
+      <g height="9.4" id="cIop_F_Brassard00" transform="matrix(1.0, 0.0, 0.0, 1.0, 1.8, 1.7)" width="3.15" class="color1">
+      <g height="9.4" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="3.15">
+      <path d="M-0.4 -4.6 L0.4 -4.65 Q1.0 -4.5 1.3 -3.6 L1.5 -2.25 1.5 -2.15 Q1.7 -0.5 1.45 0.9 1.1 2.5 1.15 3.75 1.4 4.35 0.9 4.65 L0.75 4.7 Q-0.1 4.8 -0.85 3.8 -0.6 2.5 -0.95 0.0 -1.75 -2.8 -1.45 -3.65 -1.2 -4.4 -0.4 -4.6" fill="#f40b0b" fill-rule="evenodd" stroke="none"/>
+    </g>
+    </g>
+      <g height="9.4" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="3.15">
+      <path d="M1.4 -2.9 L2.2 -2.95 Q2.8 -2.8 3.1 -1.9 L3.3 -0.45 Q3.5 1.2 3.25 2.6 2.9 4.2 2.95 5.45 3.2 6.05 2.7 6.35 L2.55 6.4 Q1.7 6.5 0.95 5.5 1.2 4.2 0.85 1.7 0.05 -1.1 0.35 -1.95 0.6 -2.7 1.4 -2.9 Z" ffdec:has-small-stroke="true" ffdec:original-stroke-width="0.05" fill="none" stroke="#1c1c1c" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5019608" stroke-width="1.094116213812326"/>
+    </g>
+    </g>
+      <g height="9.4" transform="matrix(-1.0143, 0.1287, 0.1343, 0.8, -8.0, -23.05)" width="6.2">
+      <g height="7.85" id="cIop_F_Bras00" transform="matrix(1.0, 0.0, 0.0, 1.0, 1.05, 2.1)" width="4.55" class="color3">
+      <g height="7.85" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="4.55">
+      <path d="M1.85 -3.9 Q2.4 -3.1 2.3 -2.45 L2.1 0.7 Q2.0 2.75 1.15 3.95 L-1.0 3.65 Q-1.55 1.15 -2.05 -0.5 -2.35 -1.4 -2.2 -3.5 L1.85 -3.9" fill="#fbf4ce" fill-rule="evenodd" stroke="none"/>
+    </g>
+    </g>
+      <g height="7.85" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="6.2">
+      <path d="M2.9 -1.8 Q3.45 -1.0 3.35 -0.35 L3.15 2.8 Q3.05 4.85 2.2 6.05 L0.05 5.75 -1.0 1.6 Q-1.3 0.7 -1.15 -1.4 L2.9 -1.8" fill="#7e5512" fill-opacity="0.3019608" fill-rule="evenodd" stroke="none"/>
+      <path d="M2.7 2.45 L-1.0 2.35 -1.25 0.7 Q0.45 -0.15 2.6 1.0 L2.7 2.45" fill="#4a4946" fill-rule="evenodd" stroke="none"/>
+      <path d="M2.8 -0.55 L4.3 -0.6 Q4.65 -0.9 4.75 -0.75 4.6 0.6 2.95 1.25 2.6 0.4 2.8 -0.55" fill="#e7d292" fill-rule="evenodd" stroke="none"/>
+      <path d="M4.75 -0.75 Q5.05 -0.3 4.95 0.25 4.1 1.55 2.9 1.6 L2.95 1.25 Q4.6 0.6 4.75 -0.75" fill="#fbf0cc" fill-rule="evenodd" stroke="none"/>
+      <path d="M2.8 -0.55 L4.3 -0.6 Q4.65 -0.9 4.75 -0.75" ffdec:has-small-stroke="true" ffdec:original-stroke-width="0.05" fill="none" stroke="#8d7847" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.0984900298835407"/>
+      <path d="M2.7 3.85 Q3.9 3.6 4.1 2.35 L4.2 3.35 Q3.5 4.3 2.7 4.2 L2.7 3.85" fill="#fbf0cc" fill-rule="evenodd" stroke="none"/>
+      <path d="M4.1 2.35 Q3.9 3.6 2.7 3.85 2.45 2.9 2.8 2.1 3.3 2.65 3.75 2.35 4.1 2.2 4.1 2.35" fill="#e7d292" fill-rule="evenodd" stroke="none"/>
+      <path d="M4.1 2.35 Q4.1 2.2 3.75 2.35 3.3 2.65 2.8 2.1" ffdec:has-small-stroke="true" ffdec:original-stroke-width="0.05" fill="none" stroke="#8d7847" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.0984900298835407"/>
+    </g>
+      <g height="9.4" id="cIop_F_Brassard00" transform="matrix(1.0, 0.0, 0.0, 1.0, 1.8, 1.7)" width="3.15" class="color1">
+      <g height="9.4" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="3.15">
+      <path d="M-0.4 -4.6 L0.4 -4.65 Q1.0 -4.5 1.3 -3.6 L1.5 -2.25 1.5 -2.15 Q1.7 -0.5 1.45 0.9 1.1 2.5 1.15 3.75 1.4 4.35 0.9 4.65 L0.75 4.7 Q-0.1 4.8 -0.85 3.8 -0.6 2.5 -0.95 0.0 -1.75 -2.8 -1.45 -3.65 -1.2 -4.4 -0.4 -4.6" fill="#f40b0b" fill-rule="evenodd" stroke="none"/>
+    </g>
+    </g>
+      <g height="9.4" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="3.15">
+      <path d="M1.4 -2.9 L2.2 -2.95 Q2.8 -2.8 3.1 -1.9 L3.3 -0.45 Q3.5 1.2 3.25 2.6 2.9 4.2 2.95 5.45 3.2 6.05 2.7 6.35 L2.55 6.4 Q1.7 6.5 0.95 5.5 1.2 4.2 0.85 1.7 0.05 -1.1 0.35 -1.95 0.6 -2.7 1.4 -2.9 Z" ffdec:has-small-stroke="true" ffdec:original-stroke-width="0.05" fill="none" stroke="#1c1c1c" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5019608" stroke-width="1.0984900298835407"/>
+    </g>
+    </g>
+      <g height="17.85" id="F_tete" transform="matrix(0.9991, -0.0402, 0.0402, 0.9991, -1.0, -32.3)" width="11.0">
+      <g height="7.6" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="5.3">
+      <path d="M2.3 -1.4 L1.95 -0.9 1.3 0.25 Q0.9 0.75 0.0 0.7 -0.8 0.65 -1.25 0.0 L-2.05 -1.35 -2.15 -1.75 -2.2 -2.0 Q-2.7 -4.6 -2.3 -5.4 L-2.3 -5.45 -1.75 -6.5 Q-1.4 -6.9 -0.7 -6.9 L0.8 -6.8 1.6 -6.7 Q2.0 -7.0 2.75 -5.7 2.95 -3.95 2.3 -1.4" fill="#f4dfb5" fill-rule="evenodd" stroke="none"/>
+      <path d="M2.3 -1.4 L1.95 -0.9 1.3 0.25 Q0.9 0.75 0.0 0.7 -0.8 0.65 -1.25 0.0 L-2.05 -1.35" ffdec:has-small-stroke="true" ffdec:original-stroke-width="0.05" fill="none" stroke="#1f1f1f" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.3019608" stroke-width="1.0001360999450843"/>
+    </g>
+      <g height="16.0" id="cIop_F_Cheveux" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.55, -9.15)" width="11.0" class="color2">
+      <g height="16.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="11.0">
+      <path d="M0.45 -8.0 L3.8 -3.4 4.5 -0.3 Q4.7 0.7 4.15 1.9 L4.9 2.55 5.5 5.1 3.75 3.1 3.0 5.6 1.65 8.0 1.75 7.75 Q2.4 5.2 2.2 3.45 1.45 2.15 1.05 2.45 -0.15 3.25 0.3 4.8 -1.55 3.65 -1.0 2.6 -2.35 2.05 -2.85 3.7 L-2.85 3.75 Q-3.3 4.65 -2.6 7.8 L-2.6 7.95 -2.8 7.45 -2.95 7.2 -3.8 6.0 -4.4 5.35 Q-5.65 3.4 -5.45 1.25 L-4.8 -3.1 -3.05 -6.0 Q-3.15 -4.4 -2.8 -4.3 -2.55 -5.5 -1.45 -6.35 L-0.65 -6.95 -0.65 -7.0 0.45 -8.0" fill="#fe7e00" fill-rule="evenodd" stroke="none"/>
+    </g>
+    </g>
+      <g height="15.95" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="11.0">
+      <path d="M0.85 -4.35 Q0.4 -5.9 1.6 -6.7 L1.9 -6.7 M4.35 -6.05 L6.05 -4.05 5.5 -6.6 4.75 -7.25 Q5.25 -8.45 5.1 -9.45 4.6 -11.0 4.4 -12.55 L1.05 -17.15 -0.1 -16.15 -0.9 -15.5 Q-2.0 -14.65 -2.25 -13.45 M-2.3 -5.45 Q-1.8 -7.05 -0.45 -6.5 M-2.5 -15.15 L-4.25 -12.25 -4.95 -7.9 Q-5.05 -6.3 -4.4 -4.8" ffdec:has-small-stroke="true" ffdec:original-stroke-width="0.05" fill="none" stroke="#1f1f1f" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.6" stroke-width="1.0001360999450843"/>
+      <path d="M4.75 -7.25 L3.7 -7.95 3.2 -11.45 1.05 -17.1 4.4 -12.55 Q4.6 -11.0 5.1 -9.45 5.25 -8.45 4.75 -7.25" fill="#fce69a" fill-opacity="0.5019608" fill-rule="evenodd" stroke="none"/>
+      <path d="M-2.5 -15.15 Q-2.6 -13.55 -2.25 -13.45 -2.0 -14.65 -0.95 -15.5 L-0.15 -16.1 -0.9 -12.5 -2.5 -9.45 -2.3 -5.45 -2.35 -5.4 Q-2.75 -4.5 -2.05 -1.2 -2.7 -2.7 -3.3 -3.15 L-3.85 -3.8 Q-5.1 -5.75 -4.95 -7.9 L-4.25 -12.25 -2.5 -15.15" fill="#411c01" fill-opacity="0.3019608" fill-rule="evenodd" stroke="none"/>
+      <path d="M2.85 -2.7 L3.15 -4.45 Q3.6 -5.5 4.1 -5.5 4.4 -4.9 4.15 -3.65 3.55 -2.5 2.85 -2.7" fill="#f4dfb5" fill-rule="evenodd" stroke="none"/>
+      <path d="M2.85 -2.7 Q3.55 -2.5 4.15 -3.65 4.4 -4.9 4.1 -5.5 3.6 -5.5 3.15 -4.45" ffdec:has-small-stroke="true" ffdec:original-stroke-width="0.05" fill="none" stroke="#1c1c1c" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5019608" stroke-width="1.0001360999450843"/>
+      <path d="M-2.65 -2.75 Q-3.4 -2.55 -3.95 -3.7 -4.15 -4.95 -3.8 -5.55 -3.35 -5.55 -2.95 -4.5 L-2.65 -2.75" fill="#f4dfb5" fill-rule="evenodd" stroke="none"/>
+      <path d="M-2.65 -2.75 Q-3.4 -2.55 -3.95 -3.7 -4.15 -4.95 -3.8 -5.55 -3.35 -5.55 -2.95 -4.5" ffdec:has-small-stroke="true" ffdec:original-stroke-width="0.05" fill="none" stroke="#1c1c1c" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5019608" stroke-width="1.0001360999450843"/>
+      <path d="M2.15 -4.6 Q2.5 -4.55 2.3 -4.1 L2.15 -3.7 Q1.75 -3.1 0.9 -3.2 L1.05 -3.95 Q1.4 -4.55 2.15 -4.6 M-1.9 -4.55 Q-1.2 -4.5 -0.85 -3.9 L-0.7 -3.15 Q-1.55 -3.05 -1.9 -3.65 L-2.15 -4.3 -1.9 -4.55" fill="#ffffff" fill-rule="evenodd" stroke="none"/>
+      <path d="M1.05 -3.95 Q1.4 -4.55 2.15 -4.6 M-0.85 -3.9 Q-1.2 -4.5 -1.9 -4.55" ffdec:has-small-stroke="true" ffdec:original-stroke-width="0.05" fill="none" stroke="#1f1f1f" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5019608" stroke-width="1.0001360999450843"/>
+    </g>
+    </g>
+
+
+
+    </g>
+  </g>
+  <defs>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </defs>
+</svg>

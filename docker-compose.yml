@@ -1,0 +1,12 @@
+services:
+  retro-survival:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: retro-survival-local
+    environment:
+      NODE_ENV: production
+      PORT: 3001
+    ports:
+      - "${HOST_PORT:-3001}:3001"
+    restart: unless-stopped
